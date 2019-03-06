@@ -21,5 +21,11 @@ For desktop application development.
 For native / mobile application development.
 Also in IOT http://johnny-five.io/ etc.
 
+### Latest major change to javascript ?  
+ECMAScript 5 http://speakingjs.com/es5/ch25.html
+ECMAScript 6 http://es6-features.org/#Constants
+ECMAScript 7+ https://derickbailey.com/2017/06/06/3-features-of-es7-and-beyond-that-you-should-be-using-now/
+
+
 
 
