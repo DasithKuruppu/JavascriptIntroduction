@@ -1,4 +1,7 @@
-What is JavaScript?
+# Introduction to javascript/typescript
+
+### What is JavaScript?
+
 JavaScript is a very powerful client-side scripting language.
 JavaScript is used mainly for enhancing the interaction of a user with the webpage.
 In other words, you can make your webpage more lively and interactive,
