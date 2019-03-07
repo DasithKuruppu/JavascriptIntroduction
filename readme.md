@@ -64,6 +64,7 @@ https://github.com/denysdovhan/wtfjs#-is-equal-
 * declare function
 * arguments to a function
 * returning from a function
+* pass by reference vs value
 
 ### Arrays and data structures.
 
