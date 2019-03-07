@@ -42,6 +42,7 @@ myVariable[0], myVariable[1], etc.
 5. **Object** -	Basically, anything. Everything in JavaScript is an object, and can be stored in a variable. Keep this in mind as you learn.	var myVariable = document.querySelector('h1');
 All of the above examples too.
 
+### Ways of declaring variables (var,let,const)
 
 ### Hello world !
 
