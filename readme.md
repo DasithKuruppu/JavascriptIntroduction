@@ -33,7 +33,7 @@ http://www.typescriptlang.org/play/
 
 ### Javascript basic variable types
 
-1. **String** -	A sequence of text known as a string. To signify that the value is a string, you must enclose it in quote marks.	var     myVariable = 'Bob';
+1. **String** -	A sequence of text known as a string. To signify that the value is a string, you must enclose it in quote marks.	var     myVariable = 'Bob' or var myVariable = "Bob";
 2. **Number** -	A number. Numbers don't have quotes around them.	var myVariable = 10;
 3. **Boolean** -	A True/False value. The words true and false are special keywords in JS, and don't need quotes.	var myVariable = true;
 4. **Array**	A structure that allows you to store multiple values in one single reference.	var myVariable = [1,'Bob','Steve',10];
