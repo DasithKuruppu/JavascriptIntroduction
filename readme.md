@@ -26,6 +26,11 @@ Also in IOT http://johnny-five.io/ etc.
 * ECMAScript 6 http://es6-features.org/#Constants
 * ECMAScript 7+ https://derickbailey.com/2017/06/06/3-features-of-es7-and-beyond-that-you-should-be-using-now/
 
+### Typescript
+
+TypeScript is a superset of JavaScript which primarily provides optional static typing, classes and interfaces. One of the big benefits is to enable IDEs to provide a richer environment for spotting common errors as you type the code.
+http://www.typescriptlang.org/play/
+
 ### Javascript basic variable types
 
 1. **String** -	A sequence of text known as a string. To signify that the value is a string, you must enclose it in quote marks.	var     myVariable = 'Bob';
@@ -89,4 +94,6 @@ let user = new User("John");
 user.sayHi();
 
 ```
+
+
 
