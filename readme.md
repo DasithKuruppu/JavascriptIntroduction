@@ -116,6 +116,7 @@ user.sayHi();
   console.log(jsonResponse)
 })();
 ```
+https://stackoverflow.com/questions/38332701/fetch-vs-ajaxcall
 
 ### footnotes
 
