@@ -55,6 +55,7 @@ All of the above examples too.
 '1' == 1;
 'foo' == 'foo'; 
 [1,2,3] == [1,2,3];
+"b" + "a" + +"a" + "a";
 
 ```
 https://github.com/denysdovhan/wtfjs#-is-equal-
