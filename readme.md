@@ -57,6 +57,7 @@ All of the above examples too.
 [1,2,3] == [1,2,3];
 
 ```
+https://github.com/denysdovhan/wtfjs#-is-equal-
 
 ### Functions
 
