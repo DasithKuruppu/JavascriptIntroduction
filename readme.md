@@ -106,6 +106,15 @@ user.sayHi();
 
 ```
 
+```
+(async()=>{
+  let response = await fetch(`https://api.github.com/users/dasithkuruppu`);
+  let jsonResponse = await response.json();
+
+  console.log(response);
+  console.log(jsonResponse)
+})();
+```
 
 ### footnotes
 
