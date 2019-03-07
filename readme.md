@@ -38,5 +38,38 @@ myVariable[0], myVariable[1], etc.
 All of the above examples too.
 
 
+### Hello world !
+
+* Output data either to console or dom.
+
+### Functions
+
+* declare function
+* arguments to a function
+* returning from a function
+
+### Arrays and data structures.
+
+* Initializing array
+* Adding to an array
+* Deleting from array
+
+### Classes
+
+``` 
+function User(name) {
+  this.name = name;
+}
+
+User.prototype.sayHi = function() {
+  alert(this.name);
+}
+
+let user = new User("John");
+user.sayHi();
+
+```
+
+
 
 
