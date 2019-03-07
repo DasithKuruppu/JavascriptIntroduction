@@ -48,6 +48,16 @@ All of the above examples too.
 
 * Output data either to console or dom.
 
+### Operators 
+```
+1 == 1; 
+1 == '1';
+'1' == 1;
+'foo' == 'foo'; 
+[1,2,3] == [1,2,3];
+
+```
+
 ### Functions
 
 * declare function
@@ -78,7 +88,6 @@ user.sayHi();
 
 
 ```
-
 class User {
 
   constructor(name) {
@@ -95,6 +104,11 @@ let user = new User("John");
 user.sayHi();
 
 ```
+
+
+### footnotes
+
+https://books.google.lk/books?id=l8dcCgAAQBAJ&pg=PA35&lpg=PA35&dq=the+joy+of+javascript+is+rooted+in+its&source=bl&ots=gNxX1wCwG5&sig=ACfU3U3K745e2MdTb93xC_o4LIMwaLhEzg&hl=en&sa=X&ved=2ahUKEwjglfGn7-7gAhXhmeYKHaZjAL8Q6AEwAHoECAgQAQ#v=onepage&q=the%20joy%20of%20javascript%20is%20rooted%20in%20its&f=false
 
 
 
