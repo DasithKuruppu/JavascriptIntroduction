@@ -105,6 +105,8 @@ let user = new User("John");
 user.sayHi();
 
 ```
+### Async / Promises javascript
+
 
 ### Fetch api
 ```
