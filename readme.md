@@ -106,6 +106,7 @@ user.sayHi();
 
 ```
 
+### Fetch api
 ```
 (async()=>{
   let response = await fetch(`https://api.github.com/users/dasithkuruppu`);
